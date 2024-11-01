@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="assets/style.css">
+
+
+:root{
+    --text-color: #ffffff;
+    --card-front-color: #144480;
+    --card-back-color: #144480;
+  }
+  
+  body {
+    background: url(img/bg-desktop-green.webp);
+    font-family: Niramit;
+  }
+  
